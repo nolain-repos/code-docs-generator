@@ -2,9 +2,9 @@
 
 ## Installation
 
-1. Install the package using pip:
+1. Install the package in your conda environment using pip:
 ```bash
-pip install mkdocs-setup
+pip install -e .
 ```
 
 ## Basic Usage
@@ -19,7 +19,15 @@ Follow the interactive prompts to:
 - Configure API keys for AI-assisted documentation
 - Generate documentation content
 
-This will start a local development server at `http://127.0.0.1:8000`.
+
+## Serve documentation locally
+Run the following command to serve the documentation locally:
+
+```bash
+mkdocs serve
+```
+
+and enter the url in your browser (or press CTRL + Click on the link).
 
 ## Environment Configuration
 
