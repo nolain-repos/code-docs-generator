@@ -16,12 +16,12 @@ Key features include:
 
 Explore the following sections to get started with mkdocs-setup:
 
-- [Quickstart](docs/quickstart/index.md): Getting started quickly with the project.
-- [Setups](docs/setups/index.md): Installation and configuration guide.
-- [Assumptions](docs/assumptions/index.md): Project assumptions and constraints.
-- [Alternatives](docs/alternatives/index.md): Alternative approaches considered.
-- [Functionality](docs/functionality/index.md): Core features and functionality overview.
-- [Architecture](docs/architecture/index.md): High-level system architecture and design.
+- [Quickstart](quickstart/index.md): Getting started quickly with the project.
+- [Setups](setups/index.md): Installation and configuration guide.
+- [Assumptions](assumptions/index.md): Project assumptions and constraints.
+- [Alternatives](alternatives/index.md): Alternative approaches considered.
+- [Functionality](functionality/index.md): Core features and functionality overview.
+- [Architecture](architecture/index.md): High-level system architecture and design.
 
 ## Contributing
 
